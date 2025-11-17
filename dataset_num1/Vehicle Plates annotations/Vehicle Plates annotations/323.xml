@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vehicle Plates</folder>
+	<filename>323.png</filename>
+	<path>C:\Users\Admin\Desktop\Vehicle Plates\323.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>134</ymin>
+			<xmax>161</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
